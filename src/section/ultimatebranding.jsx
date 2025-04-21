@@ -1,9 +1,9 @@
 import React from 'react'
 
-const ultimatebranding = () => {
+const Ultimatebranding = () => {
   return (
     <div>ultimatebranding</div>
   )
 }
 
-export default ultimatebranding
+export default Ultimatebranding
